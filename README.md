@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Manjeet Kumar
 
-<!--
-**Manjeetkr1217/Manjeetkr1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring **Full Stack Java Developer**  
+💻 Skilled in **Core Java, JDBC, Servlets, Spring Boot, React.js, MySQL**  
+🌱 Currently learning advanced Java & building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, SQL  
+- **Backend:** Spring Boot, JDBC, Servlets  
+- **Frontend:** React.js, HTML, CSS, Bootstrap  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, Postman, IntelliJ, VS Code  
+
+---
+
+## 📂 Projects
+ 
+
+---
+
+## 📫 Connect with me  
+- Email: manjeetkr1217@gmail.com
