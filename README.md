@@ -2,7 +2,7 @@
 
 🚀 Aspiring **Full Stack Java Developer**  
 💻 Skilled in **Core Java, JDBC, Servlets, Spring Boot, React.js, MySQL**  
-🌱 Currently learning Spring Book & building real-world projects  
+🌱 Currently learning Spring Boot & building real-world projects  
 
 ---
 
