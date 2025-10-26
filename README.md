@@ -2,16 +2,16 @@
 
 🚀 Aspiring **Full Stack Java Developer**  
 💻 Skilled in **Core Java, JDBC, Servlets, Spring Boot, React.js, MySQL**  
-🌱 Currently learning advanced Java & building real-world projects  
+🌱 Currently learning Spring Book & building real-world projects  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, SQL  
-- **Backend:** Spring Boot, JDBC, Servlets  
+- **Backend:** Spring Boot, JDBC, RESTFul services 
 - **Frontend:** React.js, HTML, CSS, Bootstrap  
 - **Database:** MySQL  
-- **Tools:** Git, GitHub, Postman, IntelliJ, VS Code  
+- **Tools:** Git, GitHub, IntelliJ, VS Code  
 
 ---
 
